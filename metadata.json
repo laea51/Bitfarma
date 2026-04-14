@@ -1,0 +1,5 @@
+{
+  "name": "BitFarma - Gestión Integral",
+  "description": "Prueba de Aplicación comercial para farmacias con gestión de pedidos, inventario, pagos en Bitcoin Lightning y tres niveles de acceso (Cliente, Dependiente, Administrador).",
+  "requestFramePermissions": []
+}
